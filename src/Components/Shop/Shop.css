@@ -14,3 +14,10 @@
     color: white;
    
 }
+
+@media screen and (max-width: 768px) {
+    .products-container{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    
+}
