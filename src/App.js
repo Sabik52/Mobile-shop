@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Mobiles from './Components/Mobiles/Mobiles';
+
 import Shop from './Components/Shop/Shop';
 
 

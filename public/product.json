@@ -1,59 +1,68 @@
 [
-        {
-          "id": "6249381bee656c4060b408a8",
-          "picture": "http://placehold.it/32x32",
-          "price": 225,
-          "name": "Hill Young"
-        },
-        {
-          "id": "6249381b632364dbad7a98d8",
-          "picture": "http://placehold.it/32x32",
-          "price": 277,
-          "name": "Pittman Henderson"
-        },
-        {
-          "id": "6249381bcf34dbb3b4024fa2",
-          "picture": "http://placehold.it/32x32",
-          "price": 264,
-          "name": "Charmaine Gould"
-        },
-        {
-          "id": "6249381bf22e0757d1dbdedd",
-          "picture": "http://placehold.it/32x32",
-          "price": 346,
-          "name": "Kaye Thornton"
-        },
-        {
-          "id": "6249381b8a8b416d77ecb867",
-          "picture": "http://placehold.it/32x32",
-          "price": 202,
-          "name": "Washington Walters"
-        },
-        {
-          "id": "6249381b01e0b0ab93d92493",
-          "picture": "http://placehold.it/32x32",
-          "price": 263,
-          "name": "Ford Mcdonald"
-        },
-        {
-          "id": "6249381bc96a73213446fca6",
-          "picture": "http://placehold.it/32x32",
-          "price": 350,
-          "name": "Monica Mckinney"
-        },
-        {
-          "id": "6249381bc155528097ec0e07",
-          "price": 378,
-          "name": "Yates Hendrix"
-        },
-        {
-          "id": "6249381bc155528097ec0e07",
-          "price": 379,
-          "name": "Yates Hendrix"
-        },
-        {
-          "id": "6249381bc155528097ec0e07",
-          "price": 397,
-          "name": "Yates Hendrix"
-        }
-      ]
+    {
+      "id": "6249ac7fb8e68b7770ecd032",
+      "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s9-ice-blue.jpg",
+      "price": 35171,
+      "name": "Samsung Galaxy S9"
+    },
+    {
+      "id": "6249ac7f1bedd7224dc0b0e3",
+      "img": "https://cdn.ndtv.com/tech/samsung_galaxy_s6_gold_platinum.jpg",
+      "price": 17038,
+      "name": "Samsung Galaxy S6"
+    },
+    {
+      "id": "6249ac7f5154036a67064e5c",
+      "img": "https://www.dslr-zone.com/wp-content/uploads/2020/07/S20-blue.jpg",
+      "price": 39814,
+      "name": "Samsung Galaxy S20"
+    },
+    {
+      "id": "6249ac7f7e97f8b5faee033a",
+      "img": "https://n4.sdlcdn.com/imgs/h/s/f/Apple-iPhone-6S-Glass-Cover-SDL793104860-1-60cdb.jpg",
+      "price": 21618,
+      "name": "Apple iPhone 6S "
+    },
+    {
+      "id": "6249ac7fa2e258be48a748bd",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_889960-MLA44156182885_112020-O.jpg",
+      "price": 28965,
+      "name": "iPhone XS 64 GB"
+    },
+    {
+      "id": "6249ac7f2bf4744c201d6602",
+      "img": "https://images.squarespace-cdn.com/content/v1/59d2bea58a02c78793a95114/1568848145716-UF5S5CJM5TDYVMZ0OHOI/69787581_10157803591253714_2268008307295780864_n.jpg",
+      "price": 37772,
+      "name": "iPhone 11"
+    },
+    {
+      "id": "6249ac7f3984cca166e87cee",
+      "img": "https://m.media-amazon.com/images/I/31p4N8HAavL.jpg",
+      "price": 21358,
+      "name": "iPhone 8/ Plus"
+    },
+    {
+      "id": "6249ac7f7b9b347650dfa1e4",
+      "img": "https://www.deepspecs.com/wp-content/uploads/2020/12/realme-7-global-deepspecs-600x600.jpg",
+      "price": 13347,
+      "name": "Realme 7"
+    },
+    {
+      "id": "6249ac7f238fca09959c624a",
+      "img": "https://fdn2.gsmarena.com/vv/pics/realme/realme-7-pro-1.jpg",
+      "price": 23412,
+      "name": "Realme 7 Pro "
+    },
+    {
+      "id": "6249ac7fd6d22ce810e7b670",
+      "img": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y21-000.jpg",
+      "price": 28869,
+      "name": "Vivo Y21"
+    },
+    {
+      "id": "6249ac7f3cd75fa18ff13919",
+      "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-10-1.jpg",
+      "price": 10909,
+      "name": "Redmi 10"
+    }
+  ]
